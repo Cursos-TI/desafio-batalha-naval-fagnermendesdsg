@@ -6,6 +6,8 @@
 
 int main() {
     
+    printf("Novo commit\n");
+
     // Vetor com letras para o cabeçalho horizontal (A a J)
     char letras[10] = {'A','B','C','D','E','F','G','H','I','J'};
 
